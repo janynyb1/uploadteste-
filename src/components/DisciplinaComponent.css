@@ -1,0 +1,61 @@
+.disciplina-component {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+    text-align:center;
+    flex-direction: column;
+    
+
+
+  }
+  .disciplinatexto {
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #ECEDEE;
+
+  }
+  .excluir-button{
+    background: none;
+    border:none;
+    cursor:pointer;
+    padding:0;
+  }
+
+label {
+display: flex;
+margin-top: 10px;
+width: 157px;
+height: 146px;
+top: 370px;
+left: 727px;
+border-radius: 20px;
+
+  }
+  
+  input {
+    margin-bottom: 2px;
+  }
+  .disciplina-component.azul {
+    background-color:  #05A2C2;
+    
+  }
+  
+  .disciplina-component.rosa {
+    background-color: #CC4090;
+
+  }
+  
+  .disciplina-component.roxo {
+    background-color: #9B19C2;
+
+  }
+  
+  .disciplina-component.laranja {
+    background-color: #C26719;
+ 
+  }
+  
